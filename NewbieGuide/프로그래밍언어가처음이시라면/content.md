@@ -16,10 +16,10 @@ https://wikidocs.net/book/1
 ####1. 입출력 및 숫자형
 '점프 투 파이썬'의 '숫자형' 부분을 정독, 연습해보신 후 다음과 같은 예제 문제를 풀어보시면 좋을 것 같습니다.
 
-1). Hello World: https://www.acmicpc.net/problem/2557
-2). A+B: https://www.acmicpc.net/problem/1000
-3). 사칙연산: https://www.acmicpc.net/problem/10869
-4). 곱셈: https://www.acmicpc.net/problem/2588
+1). Hello World: https://www.acmicpc.net/problem/2557  
+2). A+B: https://www.acmicpc.net/problem/1000  
+3). 사칙연산: https://www.acmicpc.net/problem/10869  
+4). 곱셈: https://www.acmicpc.net/problem/2588  
 5). 알람 시계: https://www.acmicpc.net/problem/2884
 
 ---
@@ -73,16 +73,19 @@ print()문 또한 여러번 사용할 수 있습니다.
 input()문은 한 줄에 대한 입력을 받는다는걸 인지하시기 바랍니다. 입력이 여러 줄이라면 여러 번 사용해야 합니다.
 
 5번 문제는, 조건문이나 반복문을 사용하지 않고 연산자 만을 이용해서도 풀 수 있는 문제입니다. 어떻게 풀 수 있을지 고민해봅시다.
+
+```
 print(a, b)
+```
 
 다음과 같이 print 안에 쉼표를 이용하여 한 줄에 두 개 이상의 변수를 공백으로 구분되게 출력할 수 있습니다.
 
 ####2. 조건문(if문)
 
-1). 두 수 비교하기: https://www.acmicpc.net/problem/1330
-2). 윤년: https://www.acmicpc.net/problem/2753
-3). 주사위 세개: https://www.acmicpc.net/problem/2480
-4). 직사각형에서 탈출: https://www.acmicpc.net/problem/1085
+1). 두 수 비교하기: https://www.acmicpc.net/problem/1330  
+2). 윤년: https://www.acmicpc.net/problem/2753  
+3). 주사위 세개: https://www.acmicpc.net/problem/2480  
+4). 직사각형에서 탈출: https://www.acmicpc.net/problem/1085  
 5). 세수정렬: https://www.acmicpc.net/problem/2752
 
 ---
@@ -103,9 +106,9 @@ python에서는 이러한 방식으로 두 변수의 값을 서로 바꿀 수 �
 
 ####3. 반복문(while, for문)
 
-1). 구구단: https://www.acmicpc.net/problem/2739
-2). A+B - 3: https://www.acmicpc.net/problem/10950
-3). A+B - 5: https://www.acmicpc.net/problem/10952
+1). 구구단: https://www.acmicpc.net/problem/2739  
+2). A+B - 3: https://www.acmicpc.net/problem/10950  
+3). A+B - 5: https://www.acmicpc.net/problem/10952  
 4). 더하기 사이클: https://www.acmicpc.net/problem/1110
 
 ---
