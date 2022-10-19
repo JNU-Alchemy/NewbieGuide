@@ -1,4 +1,4 @@
-#프로그래밍 언어가 처음이시라면?
+# 프로그래밍 언어가 처음이시라면?
 
 Python을 공부해보시는걸 추천드립니다! 프로그래밍 언어가 익숙치 않으신 분들도 도움이 될겁니다.
 https://wikidocs.net/14 를 읽었을 때 낯선 내용이다 싶으시면 Python으로 처음부터 공부하는게 더 도움될 수도 있습니다.
@@ -80,7 +80,7 @@ print(a, b)
 
 다음과 같이 print 안에 쉼표를 이용하여 한 줄에 두 개 이상의 변수를 공백으로 구분되게 출력할 수 있습니다.
 
-####2. 조건문(if문)
+#### 2. 조건문(if문)
 
 1). 두 수 비교하기: https://www.acmicpc.net/problem/1330  
 2). 윤년: https://www.acmicpc.net/problem/2753  
@@ -104,7 +104,7 @@ a, b = b, a
 
 python에서는 이러한 방식으로 두 변수의 값을 서로 바꿀 수 있습니다. (swap)
 
-####3. 반복문(while, for문)
+#### 3. 반복문(while, for문)
 
 1). 구구단: https://www.acmicpc.net/problem/2739  
 2). A+B - 3: https://www.acmicpc.net/problem/10950  
