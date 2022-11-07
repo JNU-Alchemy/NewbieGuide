@@ -2,6 +2,7 @@
 
 - [프로그래밍 언어가 처음이시라면?](/NewbieGuide/프로그래밍언어가처음이시라면/content.md)
 - [How to use Git](/NewbieGuide/HowtouseGit/content.md)
+- [브루트포스(완전탐색)알고리즘이란](</NewbieGuide/브루트포스(완전탐색)알고리즘이란/content.md>)
 
 ---
 
